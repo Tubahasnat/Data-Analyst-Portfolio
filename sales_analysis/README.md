@@ -1,6 +1,6 @@
-# 📊 Sales Data Analysis using Python & Pandas
+# Sales Data Analysis using Python & Pandas
 
-## 📌 Objective
+##  Objective
 The goal of this project is to analyze sales data and extract meaningful business insights such as:
 - Best selling products
 - Highest revenue-generating products
@@ -9,7 +9,7 @@ The goal of this project is to analyze sales data and extract meaningful busines
 
 ---
 
-## 📂 Dataset
+##  Dataset
 A custom dataset was created containing the following fields:
 - Order ID
 - Product
@@ -19,7 +19,7 @@ A custom dataset was created containing the following fields:
 
 ---
 
-## ⚙️ Steps Performed
+##  Steps Performed
 
 1. **Data Loading**
    - Created dataset using Pandas DataFrame
@@ -41,7 +41,7 @@ A custom dataset was created containing the following fields:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - **Mobile** is the most demanded product based on quantity sold  
 - **Laptop** generates the highest revenue  
@@ -50,7 +50,7 @@ A custom dataset was created containing the following fields:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - Python
 - Pandas
@@ -58,7 +58,7 @@ A custom dataset was created containing the following fields:
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project demonstrates the ability to:
 - Clean and transform data
@@ -68,7 +68,7 @@ This project demonstrates the ability to:
 
 ---
 
-## 📁 Project File
+##  Project File
 - `sales.ipynb`
 
 ---
