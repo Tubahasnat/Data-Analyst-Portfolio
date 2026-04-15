@@ -69,7 +69,7 @@ This project demonstrates the ability to:
 ---
 
 ## 📁 Project File
-- `sales_analysis.ipynb`
+- `sales.ipynb`
 
 ---
 
