@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Data-Analyst-Portfolio
-Data analyst portfolio projects
-=======
 # Sales Data Analysis using Python & Pandas
 
 ## Objective
@@ -23,7 +19,7 @@ A custom dataset was created containing the following fields:
 
 ---
 
-## ⚙️ Steps Performed
+##  Steps Performed
 
 1. **Data Loading**
    - Created dataset using Pandas DataFrame
@@ -79,4 +75,3 @@ This project demonstrates the ability to:
 
 ##  Author
 **Tuba Hasnat**
->>>>>>> 2cfd157 (Added sales analysis project)
